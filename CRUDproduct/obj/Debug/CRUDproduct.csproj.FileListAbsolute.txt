@@ -1,0 +1,22 @@
+D:\Coding\CRUDproduct\CRUDproduct\bin\Debug\product.accdb
+D:\Coding\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.exe.config
+D:\Coding\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.exe
+D:\Coding\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.pdb
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csprojAssemblyReference.cache
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.Form1.resources
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.Properties.Resources.resources
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csproj.GenerateResource.cache
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csproj.CoreCompileInputs.cache
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.exe
+D:\Coding\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.pdb
+D:\ukk 12\CRUDproduct\CRUDproduct\bin\Debug\product.accdb
+D:\ukk 12\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.exe.config
+D:\ukk 12\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.exe
+D:\ukk 12\CRUDproduct\CRUDproduct\bin\Debug\CRUDproduct.pdb
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csprojAssemblyReference.cache
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.Form1.resources
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.Properties.Resources.resources
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csproj.GenerateResource.cache
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.csproj.CoreCompileInputs.cache
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.exe
+D:\ukk 12\CRUDproduct\CRUDproduct\obj\Debug\CRUDproduct.pdb
